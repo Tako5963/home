@@ -1,4 +1,4 @@
 <?php
 
 //show hello
-echo "herro";
+echo "hello";
