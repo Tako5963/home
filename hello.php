@@ -9,4 +9,3 @@ echo "new function!";
 //add2
 echo "NEW FUNCTION!";
 
-//コメント追加
