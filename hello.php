@@ -9,3 +9,4 @@ echo "new function!";
 //add2
 echo "NEW FUNCTION!";
 
+//‘Å‚¿Á‚µ—pƒRƒƒ“ƒg
